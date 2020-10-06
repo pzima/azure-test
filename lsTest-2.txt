@@ -1,1 +1,1 @@
-testing file content for consumer with exception Mon Oct 05 15:11:59 CEST 2020
+testing file content for consumer with exception Tue Oct 06 14:03:10 CEST 2020
